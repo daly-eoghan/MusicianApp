@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+<!--All information found in the info tags is found at the wikipedia page of the relevant celebrity.-->
+
+    <musician>
+        <name>Axl Rose</name>
+        <band>GNR</band>
+        <image>axel</image>
+        <role>Singer/Pianist</role>
+        <info>W. Axl Rose is an American musician. He is best known for being the lead vocalist and lyricist of the hard rock band Guns N' Roses, and has been the band's sole constant member since its inception in 1985. Possessing a distinctive and powerful wide-ranging voice, Rose has been named one of the greatest singers of all time by various media outlets, including Rolling Stone and NME.</info>
+        <url>https://www.imdb.com/name/nm0741730/</url>
+    </musician>
+    <musician>
+        <name>Slash</name>
+        <band>GNR</band>
+        <image>slash_1</image>
+        <role>Guitarist</role>
+        <info>Saul Hudson (born July 23, 1965), better known as Slash, is a British-American guitarist who is best known as the lead guitarist of the American hard rock band Guns N' Roses, with whom he achieved worldwide success in the late 1980s and early 1990s. Slash has received critical acclaim and is considered one of the greatest guitarists in history.</info>
+        <url>https://www.imdb.com/name/nm0805298/</url>
+    </musician>
+    <musician>
+        <name>Duff McKagan</name>
+        <band>GNR</band>
+        <image>duff</image>
+        <role>Bass Guitarist</role>
+        <info>Michael Andrew "Duff" McKagan, sometimes credited as Duff "Rose" McKagan, is an American musician. He played bass for twelve years in the hard rock band Guns N' Roses, with whom he achieved worldwide success in the late 1980s and early 1990s. McKagan rejoined the band in 2016, following their induction into the Rock and Roll Hall of Fame.</info>
+        <url>https://www.imdb.com/name/nm0570884/</url>
+    </musician>
+    <musician>
+        <name>Steven Adler</name>
+        <band>GNR</band>
+        <image>steve</image>
+        <role>Drummer</role>
+        <info>Steven Adler is an American musician. He was the drummer and co-songwriter of the hard rock band Guns N' Roses, with whom he achieved worldwide success in the late 1980s. Adler was fired from Guns N' Roses over his heroin addiction in 1990, following which he reformed his pre-Guns N' Roses band Road Crew and briefly joined BulletBoys.</info>
+        <url>https://www.imdb.com/name/nm0012248/</url>
+    </musician>
+    <musician>
+        <name>Izzy Stradlin</name>
+        <band>GNR</band>
+        <image>izzy</image>
+        <role>Guitarist</role>
+        <info>Jeffrey Dean Isbell, best known as Izzy Stradlin, is an American guitarist. He was a co-founder and rhythm guitarist of the hard rock band Guns N' Roses, which he left at the height of their fame in 1991, and with whom he recorded four studio albums.</info>
+        <url>https://www.imdb.com/name/nm0833110/</url>
+    </musician>
+    <musician>
+        <name>Melissa Reese</name>
+        <band>GNR</band>
+        <image>melissa</image>
+        <role>Synthesiser</role>
+        <info>Melissa Reese (born March 1, 1990) is an American musician and model who has collaborated frequently with Bryan "Brain" Mantia and is a current member of hard rock band Guns N' Roses.</info>
+        <url>https://www.imdb.com/name/nm4188655/</url>
+    </musician>
+    <musician>
+        <name>Buckethead</name>
+        <band>GNR</band>
+        <image>buckethead_1</image>
+        <role>Guitarist</role>
+        <info>Brian Patrick Carroll, known professionally as Buckethead, is an American guitarist, songwriter, and multi-instrumentalist. He has received critical acclaim for his innovative electric guitar playing. His music spans several genres, including progressive metal, funk, blues, bluegrass, ambient, and avant-garde music.</info>
+        <url>https://www.imdb.com/name/nm1028395/</url>
+    </musician>
+</dataroot>
